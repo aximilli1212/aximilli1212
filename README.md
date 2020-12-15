@@ -24,12 +24,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aximilli1212&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aximilis's GitHub Stats" />
   </a>
 
-  <a href="https://github.com/aximilli1212/python-project-blueprint">
+  <a href="https://github.com/aximilli1212/tech-meetup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aximilli1212&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 
 
-  <a href="https://github.com/aximilli1212/go-project-blueprint">
+  <a href="https://github.com/aximilli1212/medstore">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aximilli1212&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>    
 
@@ -39,7 +39,7 @@
 - 🔭 I’m currently working on Facility Management
 - 🌱 I’m currently learning Golang & Flutter
 - 👯 I’m looking to collaborate on any good OpenSource
-- 🤔 I’m looking for help with projects
+- 🤔 I’m looking for help with GraphQL on Golang
 - 💬 Ask me about Unix 
 - 📫 How to reach me: +233243314679
 - ⚡ Fun fact: Am an avid swimmer.
