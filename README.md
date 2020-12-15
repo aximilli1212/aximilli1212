@@ -9,5 +9,5 @@
 - 👯 I’m looking to collaborate on any good OpenSource
 - 🤔 I’m looking for help with projects
 - 💬 Ask me about Unix 
-- 📫 How to reach me: +233243314579
+- 📫 How to reach me: +233243314679
 - ⚡ Fun fact: Am an avid swimmer.
