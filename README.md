@@ -17,6 +17,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/aximilli1212/aximilli1212">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aximilli1212&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
   <a href="https://github.com/aximilli1212/aximilli1212">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aximilli1212&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aximilis's GitHub Stats" />
   </a>
@@ -30,8 +34,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aximilli1212&repo=medstore&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>    
 
-
-
+## 🤔 Goofs
 
 - 🔭 I’m currently working on Facility Management
 - 🌱 I’m currently learning Golang & Flutter
