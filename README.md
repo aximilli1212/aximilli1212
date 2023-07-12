@@ -43,5 +43,5 @@
 - 👯 I’m looking to collaborate on any good OpenSource
 - 🤔 I’m looking for help with GraphQL on Golang
 - 💬 Ask me about Unix 
-- 📫 How to reach me: +233243314679
+- 📫 How to reach me: +233242149040
 - ⚡ Fun fact: Am an avid swimmer.
